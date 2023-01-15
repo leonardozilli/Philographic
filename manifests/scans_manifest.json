@@ -1,0 +1,82 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Le Becchine Tubanera - scans",
+  "metadata" : [ ],
+  "description" : [ {
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Taitai Lab, 2022",
+  "sequences" : [ {
+    "@id" : "http://028191f1-ea8a-4cce-a0d2-f360e45ed438",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00",
+      "@type" : "sc:Canvas",
+      "label" : "Page 7",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a5304a28-16ed-46c6-a97a-9ecd22a570d5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://free.iiifhosting.com/iiif/a9a0040d444d27684568b22837b31895dedf2df6c22ce7b157eb64f4d2914434/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://free.iiifhosting.com/iiif/a9a0040d444d27684568b22837b31895dedf2df6c22ce7b157eb64f4d2914434",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://98abf7b5-dc70-4b2a-ae17-00a017b6be08",
+      "@type" : "sc:Canvas",
+      "label" : "Page 8",
+      "height" : 1755,
+      "width" : 1240,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://871c750c-90c5-4905-9dbb-5b1260a9a255",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://free.iiifhosting.com/iiif/177009e1aa71db11783fe9a3295c86593c92d3c71794ea568267b7dfc43ff79c/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://free.iiifhosting.com/iiif/177009e1aa71db11783fe9a3295c86593c92d3c71794ea568267b7dfc43ff79c",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 1755,
+          "width" : 1240
+        },
+        "on" : "http://98abf7b5-dc70-4b2a-ae17-00a017b6be08"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
