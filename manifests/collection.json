@@ -1,0 +1,13 @@
+{
+  "id" : "https://leonardozilli.github.io/philo/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in leonardozilli/philo project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://leonardozilli.github.io/philo/manifests/gistfile1.json",
+    "label" : "Cardiganshire Constabulary register of criminals"
+  } ]
+}
