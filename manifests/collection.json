@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://leonardozilli.github.io/philo/manifests/s.json",
     "label" : "Le Becchine Tubanera - storyboard"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json",
+    "label" : "Le Becchine Tubanera - scans"
   } ]
 }
