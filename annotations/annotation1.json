@@ -1,0 +1,435 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sb2 Perch&eacute; dici cos&igrave;?] add.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>sb2</strong> Perch&eacute; dici cos&igrave;?] <em>add.</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:00:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673863254188",
+    "dcterms:modified" : "2023-01-16T10:00:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=822,652,151,72"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M844.42282,662.90395c13.9197,-6.01914 33.5557,-10.50139 53.28685,-10.49603v0v0c19.73115,0.00536 36.92029,4.19843 53.28685,10.49603c16.36655,6.29761 22.72803,15.89394 22.07213,25.33966c-0.65589,9.44572 -8.32915,18.74083 -22.07213,25.33966c-13.74298,6.59883 -33.5557,10.50139 -53.28685,10.49603c-19.73115,-0.00536 -39.38074,-3.91862 -53.28685,-10.49603c-13.90611,-6.57741 -22.06874,-15.81897 -22.07213,-25.33966c-0.0034,-9.52069 8.15243,-19.32052 22.07213,-25.33966z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_4295e3ab-77e9-40db-a74e-6cc6c0090f80\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sb1 Ma io sento mormorare] mut. I loro mormorii sono from which T.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>sb1</strong> Ma io sento mormorare] <em>mut</em>. I loro mormorii sono<em> from which T.</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:06:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673863607917",
+    "dcterms:modified" : "2023-01-16T10:06:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=498,1423,197,91"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M527.29477,1436.17816c18.18628,-7.60785 43.84098,-13.27316 69.61999,-13.26639v0v0c25.77902,0.00677 48.23686,5.30657 69.61999,13.26639c21.38313,7.95982 29.69448,20.08904 28.83754,32.0279c-0.85693,11.93886 -10.88215,23.68735 -28.83754,32.0279c-17.9554,8.34055 -43.84098,13.27316 -69.61999,13.26639c-25.77902,-0.00677 -51.45147,-4.95292 -69.61999,-13.26639c-18.16852,-8.31348 -28.8331,-19.99428 -28.83754,-32.0279c-0.00444,-12.03362 10.65126,-24.42005 28.83754,-32.0279z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_c10c6b2a-ef30-4284-bfae-aece3dbc464e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sb1&nbsp;&egrave; quasi palpabile]&nbsp;mut.&nbsp;posso sentirlo fin qui.&nbsp;from which T.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>sb1</strong>&nbsp;&egrave; quasi palpabile]&nbsp;<em>mut.</em>&nbsp;posso sentirlo fin qui.&nbsp;<em>from which T.</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:18:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673864335229",
+    "dcterms:modified" : "2023-01-16T10:18:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=853,530,248,100"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M888.96526,544.19203c22.86147,-8.35786 55.11129,-14.58167 87.51738,-14.57423v0v0c32.40609,0.00744 60.63724,5.82971 87.51738,14.57423c26.88014,8.74452 37.32811,22.06948 36.25089,35.18531c-1.07723,13.11583 -13.67965,26.02252 -36.25089,35.18531c-22.57124,9.16279 -55.11129,14.58167 -87.51738,14.57423c-32.40609,-0.00744 -64.67823,-5.44119 -87.51738,-14.57423c-22.83915,-9.13304 -36.2453,-21.96538 -36.25089,-35.18531c-0.00558,-13.21993 13.38941,-26.82745 36.25089,-35.18531z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_0840b951-33bd-4ce1-be3b-c0229481c28f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "| In D: (T)sb1&nbsp;and (T)sb2&nbsp;are condensed in one speech balloon &ndash; (D)sb1&nbsp;|",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>| In <em>D</em>: (<em>T</em>)<strong>sb1</strong>&nbsp;and (<em>T</em>)<strong>sb2</strong>&nbsp;are condensed in one speech balloon &ndash; (<em>D</em>)<strong>sb1</strong>&nbsp;|</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-15T22:25:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673821513903",
+    "dcterms:modified" : "2023-01-16T10:10:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=49,83,456,825"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M48.79796,82.78777h228.03v0h228.03v412.32812v412.32813h-228.03h-228.03v-412.32812z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ec107157-a7f8-4505-b520-06da94319de0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1.61305\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<strong style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">sb1<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">&nbsp;Ah, eccoti Flora! Hai visto?]&nbsp;<em style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">add.<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">&nbsp;per il nostro Achille.]&nbsp;<em style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">add.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">sb1</strong><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">&nbsp;Ah, eccoti Flora! Hai visto?]&nbsp;</span><em style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">add.</em><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">&nbsp;per il nostro Achille.]&nbsp;</span><em style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">add.</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:38:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673865484124",
+    "dcterms:modified" : "2023-01-16T10:38:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=881,111,231,131"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M914.40135,222.66532c21.35923,10.97577 51.48989,19.14905 81.76656,19.13928v0v0c30.27667,-0.00976 56.65273,-7.65574 81.76656,-19.13928c25.11383,-11.48354 34.87526,-28.98225 33.86882,-46.20632c-1.00644,-17.22407 -12.78075,-34.17349 -33.86882,-46.20632c-21.08807,-12.03282 -51.48989,-19.14905 -81.76656,-19.13928c-30.27667,0.00976 -60.42819,7.14552 -81.76656,19.13928c-21.33837,11.99376 -33.8636,28.84554 -33.86882,46.20632c-0.00521,17.36078 12.50959,35.23055 33.86882,46.20632z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_38dc4716-8695-4a7f-a5b0-68c46358166d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sb1 Pu&ograve; anche darsi&hellip;] add. from which T.\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>sb1</strong> Pu&ograve; anche darsi&hellip;] <em>add. from which T.</em></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:05:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673863545219",
+    "dcterms:modified" : "2023-01-16T10:05:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=908,935,148,78"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M929.15026,946.69063c13.62329,-6.51607 32.84115,-11.36837 52.15214,-11.36257v0v0c19.31099,0.0058 36.1341,4.54504 52.15214,11.36257c16.01804,6.81753 22.24405,17.20613 21.60213,27.43168c-0.64193,10.22555 -8.15179,20.28806 -21.60213,27.43168c-13.45034,7.14363 -32.84115,11.36837 -52.15214,11.36257c-19.31099,-0.0058 -38.54216,-4.24214 -52.15214,-11.36257c-13.60999,-7.12044 -21.5988,-17.12497 -21.60213,-27.43168c-0.00333,-10.30671 7.97883,-20.91561 21.60213,-27.43168z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_e4b1cb28-e4a7-41f6-80ab-77a0ae233941\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "| In D: (T)sb3 moved to the next panel, p3 |",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>| In <em>D</em>: (<em>T</em>)<strong>sb3</strong> moved to the next panel, <strong>p3</strong> |</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:14:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673864095498",
+    "dcterms:modified" : "2023-01-16T10:14:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=516,91,658,402"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M516.18182,90.77809h329.18182v0h329.18182v201v201h-329.18182h-329.18182v-201z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3c5d8610-0f86-40cc-b673-1a5ed8a80187\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sb2 Penso sia solo una tua sensazione.] mut. Spero sia una delle tue solite sensazioni, Flora. from which T.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>sb2</strong> Penso sia solo una tua sensazione.] <em>mut</em>. Spero sia una delle tue solite sensazioni, Flora. <em>from which T.</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:04:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673863454086",
+    "dcterms:modified" : "2023-01-16T10:04:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=635,1015,178,89"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M661.22097,1028.53701c16.43093,-7.50509 39.60941,-13.09388 62.90021,-13.0872v0v0c23.2908,0.00668 43.581,5.2349 62.90021,13.0872c19.31921,7.8523 26.82834,19.8177 26.05412,31.5953c-0.77422,11.7776 -9.83179,23.36741 -26.05412,31.5953c-16.22233,8.22789 -39.60941,13.09388 -62.90021,13.0872c-23.2908,-0.00668 -46.48533,-4.88602 -62.90021,-13.0872c-16.41488,-8.20119 -26.05011,-19.72422 -26.05412,-31.5953c-0.00401,-11.87108 9.6232,-24.09021 26.05412,-31.5953z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_7423860c-806d-4fc4-80e8-55f52ad98213\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sb1 al cordoglio, Giorgina.] mut. al cordoglio di Achille.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>sb1</strong> al cordoglio, Giorgina.] <em>mut.</em> al cordoglio di Achille.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:03:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673863418534",
+    "dcterms:modified" : "2023-01-16T10:03:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=430,919,294,90"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M472.63207,931.78456c27.11304,-7.57407 65.36038,-13.21422 103.79306,-13.20749v0v0c38.43268,0.00674 71.91399,5.28301 103.79306,13.20749c31.87906,7.92447 44.27005,19.99984 42.99249,31.88569c-1.27756,11.88585 -16.22366,23.58217 -42.99249,31.88569c-26.76883,8.30352 -65.36038,13.21422 -103.79306,13.20749c-38.43268,-0.00674 -76.7065,-4.93092 -103.79306,-13.20749c-27.08656,-8.27656 -42.98587,-19.9055 -42.99249,-31.88569c-0.00662,-11.98019 15.87945,-24.31162 42.99249,-31.88569z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_30ced52e-772b-4d9e-82d8-a696a2d9c3b0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<div data-anno-id=\"80bf299a-f4dc-40d7-bdf5-b56da520fd49\">\n\nsb3&nbsp;Non ne sarei cos&igrave; entusiasta]&nbsp;mut.&nbsp;Tu credi?&nbsp;from which T\n\n",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<div data-anno-id=\"80bf299a-f4dc-40d7-bdf5-b56da520fd49\">\n<div>\n<p><strong>sb3</strong>&nbsp;Non ne sarei cos&igrave; entusiasta]&nbsp;<em>mut</em>.&nbsp;Tu credi?&nbsp;<em>from which T</em></p>\n</div>\n</div>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:18:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673864292596",
+    "dcterms:modified" : "2023-01-16T10:18:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=751,321,158,102"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M773.65473,335.47768c14.58192,-8.5738 35.15208,-14.95842 55.82192,-14.95079v0v0c20.66984,0.00763 38.67674,5.98034 55.82192,14.95079c17.14518,8.97046 23.80929,22.6397 23.1222,36.0944c-0.6871,13.4547 -8.7254,26.69487 -23.1222,36.0944c-14.39679,9.39953 -35.15208,14.95842 -55.82192,14.95079c-20.66984,-0.00763 -41.25424,-5.58177 -55.82192,-14.95079c-14.56768,-9.36902 -23.11864,-22.53291 -23.1222,-36.0944c-0.00356,-13.5615 8.54028,-27.5206 23.1222,-36.0944z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_a6ed3856-5324-47e6-9fc4-2cde1f6dd758\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sb1&nbsp;Forse ho esagerato con i tulipani&hellip;]&nbsp;mut.&nbsp;Spero di non aver esagerato coi garofani.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>sb1</strong>&nbsp;Forse ho esagerato con i tulipani&hellip;]&nbsp;<em>mut.</em>&nbsp;Spero di non aver esagerato coi garofani.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:19:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673864374233",
+    "dcterms:modified" : "2023-01-16T10:19:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=170,95,178,94"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M195.66281,175.51398c16.42162,7.87954 39.58698,13.74717 62.8646,13.74016v0v0c23.27762,-0.00701 43.55633,-5.49608 62.8646,-13.74016c19.30827,-8.24408 26.81315,-20.80646 26.03937,-33.17168c-0.77378,-12.36522 -9.82623,-24.53328 -26.03937,-33.17168c-16.21314,-8.63841 -39.58698,-13.74717 -62.8646,-13.74016c-23.27762,0.00701 -46.45902,5.12979 -62.8646,13.74016c-16.40559,8.61037 -26.03536,20.70832 -26.03937,33.17168c-0.00401,12.46336 9.61775,25.29214 26.03937,33.17168z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_9ee47fc2-b0ca-4a18-8bc5-fe84a4269841\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sb2&nbsp;Per&ograve; ricordo fossero]&nbsp;mut.&nbsp;erano i suoi&nbsp;from which T.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>sb2</strong>&nbsp;Per&ograve; ricordo fossero]&nbsp;<em>mut.</em>&nbsp;erano i suoi&nbsp;<em>from which T</em>.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:20:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673864404330",
+    "dcterms:modified" : "2023-01-16T10:20:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=101,230,182,95"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M128.02204,244.10964c16.76283,-7.99782 40.40952,-13.95353 64.1708,-13.94641v0v0c23.76128,0.00712 44.46134,5.57858 64.1708,13.94641c19.70946,8.36783 27.37028,21.11879 26.58042,33.66962c-0.78986,12.55083 -10.0304,24.90154 -26.58042,33.66962c-16.55002,8.76808 -40.40952,13.95353 -64.1708,13.94641c-23.76128,-0.00712 -47.42434,-5.2068 -64.1708,-13.94641c-16.74646,-8.73962 -26.57632,-21.01917 -26.58042,-33.66962c-0.00409,-12.65045 9.81758,-25.6718 26.58042,-33.66962z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_323c3eaa-d270-438d-931a-71b658f19019\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "| In respect to&nbsp;D, addition of one panel &ndash; the above considered&nbsp;p5&nbsp;|",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>| In respect to&nbsp;<em>D</em>, addition of one panel &ndash; the above considered&nbsp;<em><strong>p5</strong>&nbsp;</em>|</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/114939679",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-16T10:16:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673864179905",
+    "dcterms:modified" : "2023-01-16T10:16:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leonardozilli.github.io/philo/manifests/scans_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=781,922,394,365"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M781.3588,922.43694h196.77126v0h196.77126v182.50978v182.50978h-196.77126h-196.77126v-182.50978z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f79e5e51-7bfd-4ac8-a078-9708d34de478\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://512e4350-e4da-4e35-800b-8fd3bd6ffc00"
+    } ]
+  } ],
+  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/114939679/593352aabcc08e8e9f7f67c1fe80d00c.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

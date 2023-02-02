@@ -1,0 +1,116 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://afe3186c-5c46-4b6e-a7db-4e0c7cbcb571",
+	"@type": "sc:Manifest",
+	"label": "Le Becchine Tubanera - storyboard",
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Salvatore Callerami, 2022",
+	"sequences": [
+		{
+			"@id": "http://07e870d5-64b4-494f-8362-611d9156a4f5",
+			"@type": "sc:Sequence",
+			"canvases": [
+				{
+					"@id": "http://e89853cf-ef50-4742-bfbb-a16bb892cacd",
+					"@type": "sc:Canvas",
+					"label": "Page 7",
+					"height": 1240,
+					"width": 870,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://46ec2b5c-95d8-4719-a8eb-266892ec9682",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/9da85f316fee6f5d0cd2278329b7f2ddb80fca31bb8db499929ed6e864223289/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/9da85f316fee6f5d0cd2278329b7f2ddb80fca31bb8db499929ed6e864223289",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1240,
+								"width": 870
+							},
+							"on": "http://e89853cf-ef50-4742-bfbb-a16bb892cacd"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d138630a-18f0-4bcc-a2db-c293b59d77f6",
+					"@type": "sc:Canvas",
+					"label": "Page 8",
+					"height": 1240,
+					"width": 878,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0d51f5ee-e89c-47cd-8702-10e653a36d4a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/4e4944111bbb09212af4f502baebd4d31fc3507c234da4fc68a8974d95411cf6/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/4e4944111bbb09212af4f502baebd4d31fc3507c234da4fc68a8974d95411cf6",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1240,
+								"width": 878
+							},
+							"on": "http://d138630a-18f0-4bcc-a2db-c293b59d77f6"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	]
+}

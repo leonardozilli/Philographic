@@ -1,2 +1,4 @@
-# iiif-training-workbench
-IIIF Training Workbench
+![](./images/philographic_logo_black.png)
+
+
+---

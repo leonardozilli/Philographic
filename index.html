@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Philographic</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="inner-width">
+        <h1 class="logo">Philographic</h1>
+        <i class="menu-toggle-btn fas fa-bars"></i>
+        <nav class="navigation-menu">
+          <a href="#"><i class="fas fa-home home"></i> Home</a>
+          <a href="#"></i> About</a>
+          <a href="#"></i> Services</a>
+          <a href="#"></i> Skills</a>
+          <a href="#"></i> Contact</a>
+          <a href="#" class="aj_btn"> <i class="fas fa-lock" aria-hidden="true"></i>
+            LOGIN</a>
+        </nav>
+      </div>
+    </header>
+
+    <div id="mirador3">
+      <script type="text/javascript">
+        var mirador = Mirador.viewer({
+          "id": "mirador3",
+          "selectedTheme": "dark",
+          "workspaceControlPanel": "false",
+          thumbnailNavigation: {
+              defaultPosition: 'far-bottom',
+              displaySettings: true,
+              height: 110,
+              width: 50
+          },
+          themes: {
+            dark: {
+              palette: {
+                type: 'dark',
+                primary: {
+                  main: '#bac5c4',
+                }
+              }
+            }
+          },
+          annotations: {
+            htmlSanitizationRuleSet: 'mirador2',
+          },
+          window: {
+            sideBarPanel: 'annotations',
+            defaultSidebarPanelWidth: 200,
+            highlightAllAnnotations: true,
+            forceDrawAnnotations: true,
+          },
+          "windows": [
+            {
+              "loadedManifest": "https://gist.githubusercontent.com/leonardozilli/cf99dc69a0b263103044daea7367a854/raw/bf6c4753243bed5b810906c908306c390cd61fdd/storyboard_manifest.json",
+            },
+            {
+              "loadedManifest": "https://dev.gdmrdigital.com/manifests/1245635613/114939679/5fe8e047588fcee64044686d3a923475.json",
+              //"loadedManifest": 'https://gist.githubusercontent.com/leonardozilli/db729faf6b957e5f887eec11d54c2f53/raw/10c6e95fbb06d539d6ccc90118cba8d544919fec/scans_manifest.json',
+              "sideBarOpen": 'true',
+            },
+          ],
+        });
+        </script>
+    </div>
+  </body>
+</html>
